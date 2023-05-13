@@ -1,3 +1,5 @@
+![https://i.328888.xyz/2023/05/13/iuaoFZ.png](https://i.328888.xyz/2023/05/13/iuaoFZ.png)
+
 ## Hi there 👋
 
 这里是厦门理工学院信息安全协会仓库
@@ -7,3 +9,7 @@
 2022纳新群：818071925
 
 Website: [https://www.xmutsec.cn](https://www.xmutsec.cn)
+
+协会大LOGO
+
+![https://i.328888.xyz/2023/05/13/iuaJgQ.png](https://i.328888.xyz/2023/05/13/iuaJgQ.png)
