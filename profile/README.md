@@ -1,4 +1,4 @@
-![](xisc.png)
+![biglogo.png](https://github.com/xmutsec/.github/raw/main/profile/biglogo.png)
 
 ## Hi there 👋
 
@@ -12,4 +12,4 @@ Website: [https://www.xmutsec.cn](https://www.xmutsec.cn)
 
 协会大LOGO
 
-![](biglogo.png)
+![xisc.png](https://github.com/xmutsec/.github/raw/main/profile/xisc.png)
