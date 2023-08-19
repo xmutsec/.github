@@ -1,4 +1,4 @@
-![](biglogo.png)
+![](xisc.png)
 
 ## Hi there 👋
 
