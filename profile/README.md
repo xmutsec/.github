@@ -1,4 +1,4 @@
-![https://i.328888.xyz/2023/05/13/iuaoFZ.png](https://i.328888.xyz/2023/05/13/iuaoFZ.png)
+![](biglogo.png)
 
 ## Hi there 👋
 
@@ -12,4 +12,4 @@ Website: [https://www.xmutsec.cn](https://www.xmutsec.cn)
 
 协会大LOGO
 
-![https://i.328888.xyz/2023/05/13/iuaJgQ.png](https://i.328888.xyz/2023/05/13/iuaJgQ.png)
+![](biglogo.png)
