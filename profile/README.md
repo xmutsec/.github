@@ -2,7 +2,7 @@
 
 <table border="0">
   <tr>
-    <td><img src="https://github.com/xmutsec/.github/raw/main/profile/biglogo.png" style="float: left;" width="400px"></td>
+    <td><img src="https://github.com/xmutsec/.github/raw/main/profile/biglogo.png" align="center" width="200px"></td>
     <td>
       <p>这里是厦门理工学院信息安全协会仓库</p>
       <p>XMUTSEC 是厦门理工学院信息安全协会所属的 安全 团队。 成立于 2016 年，由计算机科学与技术、智能商贸管理、软件工程以及其他专业学生组成，开展网络安全实战技术学习，代表学校参加国内外各类网络安全比赛。</p>
@@ -12,7 +12,7 @@
     </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/xmutsec/.github/raw/main/profile/xisc.png" style="float: left;" width="400px"></td>
+    <td><img src="https://github.com/xmutsec/.github/raw/main/profile/xisc.png" align="center" width="200px"></td>
     <td>
       <p>协会官网：<a href="https://www.xmutsec.cn">www.xmutsec.cn</a></p>
       <p>协会网盘：<a href="https://cloud.xmutsec.cn">cloud.xmutsec.cn</a></p>
@@ -21,3 +21,5 @@
     </td>
   </tr>
 </table>
+
+<img src="https://github.com/xmutsec/.github/blob/main/profile/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E7%99%BD%E8%89%B2%E7%89%88.png?raw=true" align="center">
