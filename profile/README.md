@@ -15,8 +15,10 @@
     <td><img src="https://github.com/xmutsec/.github/raw/main/profile/xisc.png" align="center" width="200px"></td>
     <td>
       <p>协会官网：<a href="https://www.xmutsec.cn">www.xmutsec.cn</a></p>
+      <p>协会官网（内网）：<a href="http://src.xmut.edu.cn">src.xmut.edu.cn</a></p>
       <p>协会网盘：<a href="https://cloud.xmutsec.cn">cloud.xmutsec.cn</a></p>
       <p>竞赛平台：<a href="https://games.xmutsec.cn">games.xmutsec.cn</a></p>
+      <p>竞赛平台（内网）：<a href="http://ctf.xmut.edu.cn">http://ctf.xmut.edu.cn</a></p>
       <p>取证平台：<a href="https://forensics.xmutsec.cn">forensics.xmutsec.cn</a></p>
     </td>
   </tr>
