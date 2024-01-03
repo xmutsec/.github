@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+> 这里是厦门理工大学信息安全协会原神安全研究实验室组成的团队，XMUTSEC是厦门理工大学信息安全协会所属的安全团队。 成立于 2016 年，由服装设计专业、中医药专业、水产养殖技术以及其他专业学生组成
+
 <table border="0">
   <tr>
     <td><img src="https://github.com/xmutsec/.github/raw/main/profile/biglogo.png" align="center" width="200px"></td>
